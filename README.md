@@ -10,11 +10,11 @@ Welcome to my personal web development portfolio! Here, you’ll find a collecti
 Contact
 Feel free to reach out to me for inquiries, collaborations, or just to connect:
 
-[Email]: (aliarshadkhan02@gmail.com)
+[Email](aliarshadkhan02@gmail.com)
 
-[LinkedIn]: (https://www.linkedin.com/in/ali-arshad-khan/)
+[LinkedIn](https://www.linkedin.com/in/ali-arshad-khan/)
 
-[GitHub]: (https://github.com/Ali-Arshad-Khan)
+[GitHub](https://github.com/Ali-Arshad-Khan)
 
-[Portfolio]: (https://ali-arshad-khan.github.io/portfolio-ali-arshad-khan/)
+[Portfolio](https://ali-arshad-khan.github.io/portfolio-ali-arshad-khan/)
 
